@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="eShop icon 512">
+  <rect width="512" height="512" rx="112" fill="#2563eb"/>
+  <path d="M136 200h240l-26 144H160l-24-144Z" fill="#ffffff"/>
+  <path d="M160 200c0-50 40-90 96-90s96 40 96 90" fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="188" cy="368" r="26" fill="#ffffff"/>
+  <circle cx="332" cy="368" r="26" fill="#ffffff"/>
+</svg>
